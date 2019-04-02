@@ -1,7 +1,7 @@
 {
-  "name": "brittanychiang.com",
+  "name": "agnish.chakraborty.com",
   "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "First build",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve",
