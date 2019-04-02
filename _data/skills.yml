@@ -1,33 +1,33 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: JavaScript
   - item: Python
+  - item: Solidity
+  - item: PHP
+  - item: Dart
+  - item: HTML
   - item: SQL
-  - item: R
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
   - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: DialogFlow
+  - item: Rasa
+  - item: Botpress
+  - item: Microsoft bot framework
+  - item: Amazon lex
+  - item: Wit.Ai
 
-tools:
-  - item: Bash
+platforms:
+  - item: Chatfuel 
+  - item: ManyChat
+  - item: BotKit  
+  - item: IBM Watson
+  - item: Facebook Messenger Platform
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+blockchain:
+  - item: Ethereum
+  - item: HyperLedger
+  - item: Stellar
+  - item: Tron
+  - item: Wave
+  - item: EOS
