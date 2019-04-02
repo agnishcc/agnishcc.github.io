@@ -11,8 +11,8 @@ frameworks:
   - item: Node
   - item: DialogFlow
   - item: Rasa
-  - item: Botpress
   - item: Microsoft bot framework
+  - item: Botpress
   - item: Amazon lex
   - item: Wit.Ai
 
