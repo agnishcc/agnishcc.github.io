@@ -1,7 +1,7 @@
 - name: Paolo Ursomando
   url: https://ibb.co/GVhBZkc
   code: https://ibb.co/GVhBZkc
-  description: This is a chatbot that helps italian user to get the best mobile and carrier deals. A manychat chatbot that is powered by a node.Js backend. It fetches the data from the google sheets to create the gallery, text buttons and quick replies.
+  description: This is a chatbot that helps italian user to get the best mobile and carrier deals. A manychat chatbot that is powered by a node.Js backend. It fetches the data from the google sheets to create the gallery, text buttons and quick replies. <a class="underline-link" href="https://ibb.co/GVhBZkc">Screenshot here</a>
   used:
     - thing: Node JS
     - thing: Manychat
@@ -68,16 +68,7 @@
     - thing: OpenWeatherMap API
     - thing: Google Maps API
 
-# - name: ScreenTime 2.0
-#   url: https://play.google.com/store/apps/details?id=com.starry.management
-#   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
-#   used:
-#   - thing: JavaScript
-#   - thing: CSS
-#   - thing: Handlebars
-#   - thing: Backbone
-#   - thing: Marionette
-#   - thing: Cordova
+
 
 - name: Personal Website V2
   url: http://brittanychiang.com/v2
