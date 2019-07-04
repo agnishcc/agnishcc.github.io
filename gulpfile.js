@@ -9,4 +9,3 @@ const sync = require('./build/browsersync');
 });
 
 gulp.task('build', ['sass', 'scripts', 'images', 'jekyll-build']);
-//123
