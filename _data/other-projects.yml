@@ -2,7 +2,7 @@
   url: https://ibb.co/GVhBZkc
   code: https://ibb.co/GVhBZkc
   description: This is a chatbot that helps italian user to get the best mobile and carrier deals. A manychat chatbot that is powered by a node.Js backend. It fetches the data from the google sheets to create the gallery, text buttons and quick replies. <br>
-  <a class="small" href="https://ibb.co/GVhBZkc">🏆 Screenshot here 🏆</a>
+    <a class="small" href="https://ibb.co/GVhBZkc">🏆 Screenshot here 🏆</a>
   used:
     - thing: Node JS
     - thing: Manychat
