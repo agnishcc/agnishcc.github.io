@@ -1,13 +1,13 @@
-- name: Surf Videos
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+- name: Paolo Ursomando
+  url: https://ibb.co/GVhBZkc
+  code: https://ibb.co/GVhBZkc
+  description: This is a chatbot that helps italian user to get the best mobile and carrier deals. A manychat chatbot that is powered by a node.Js backend. It fetches the data from the google sheets to create the gallery, text buttons and quick replies.
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
+    - thing: Node JS
+    - thing: Manychat
+    - thing: Google sheet
+    - thing: Dynamic content API
+    - thing: Manychat API
 
 - name: Halcyon Theme
   url: https://brittanychiang.com/halcyon-site/
