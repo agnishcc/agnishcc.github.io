@@ -1,7 +1,7 @@
 - name: Paolo Ursomando
   url: https://ibb.co/GVhBZkc
   code: https://ibb.co/GVhBZkc
-  description: This is a chatbot that helps italian user to get the best mobile and carrier deals. A manychat chatbot that is powered by a node.Js backend. It fetches the data from the google sheets to create the gallery, text buttons and quick replies. 
+  description: This is a chatbot that helps italian user to get the best mobile and carrier deals. A manychat chatbot that is powered by a node.Js backend. It fetches the data from the google sheets to create the gallery, text buttons and quick replies. <br>
   <a class="small" href="https://ibb.co/GVhBZkc">🏆 Screenshot here 🏆</a>
   used:
     - thing: Node JS
@@ -10,17 +10,17 @@
     - thing: Dynamic content API
     - thing: Manychat API
 
-- name: Halcyon Theme
-  url: https://brittanychiang.com/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
-  used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
+# - name: Halcyon Theme
+#   url: https://brittanychiang.com/halcyon-site/
+#   code: https://github.com/bchiang7/halcyon-site
+#   description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
+#   used:
+#     - thing: Gatsby
+#     - thing: Sublime Text
+#     - thing: Atom
+#     - thing: VS Code
+#     - thing: iTerm2
+#     - thing: Hyper
 
 # - name: Lonely Planet DBMS
 #   url: https://github.com/bchiang7/CS3200-Project
@@ -47,8 +47,8 @@
 # - name: Crowd DJ
 #   url: https://github.com/crowddj/crowddj-react
 #   code: https://github.com/crowddj/crowddj-react
-#   description: A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
- 
+#   description: A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. 
+
 #   used:
 #     - thing: React
 #     - thing: Sass
